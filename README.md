@@ -84,7 +84,7 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 ### [Day 16](./Day016)
 - **Learning Objectives**: Object oriented programming(OOP)
   - Learned about classes, attributes and methods and what they are used for
-  - Learned how to add Python packages and using PyPi
+  - Learned how to add Python packages using PyPi
   - Played around with the builtin Turtle module
   - Created a table with the pretty table module
 - **Project**: Coffee Machine Script from Day15 as OOP
