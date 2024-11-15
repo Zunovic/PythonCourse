@@ -98,8 +98,15 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 
 ### [Day 18](./Day018)
 - **Learning Objectives**: Understand how to read documentations
-  - Learned how to draw using the turtle module
   - Importing modules using Aliases
 - **Project**: Generate a Hirst-Painting using the colorgram module
   - Wrote a small script wich generates a "Hirst-Painting" like image
   - extracting colors from an image
+
+### [Day 19](./Day019)
+- **Learning Objectives**:
+- How to build an "Etch-a-Sketch" like programm using the turtle library
+- What is a higher order function?
+- Multiple instances of classes
+- **Project**: Build a "Turtle-Race" app similar to horse races
+- It works, but sometimes it appears, that more than one turtle can win
