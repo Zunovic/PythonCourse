@@ -110,3 +110,16 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - Multiple instances of classes
 - **Project**: Build a "Turtle-Race" app similar to horse races
 - It works, but sometimes it appears, that more than one turtle can win
+
+### [Day 20](./Day020)
+- **Learning Objectives**: Breaking projects into multiple parts,
+- 
+
+- **Project**: Build a Snake Game in 7 Steps:
+- Create a snake body
+- Make the snake moving
+- Control the snake
+- Detect collision with food
+- Create a scoreboard
+- Detect collision with walls
+- Detect collision with own body
