@@ -123,3 +123,17 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - Create a scoreboard
 - Detect collision with walls
 - Detect collision with own body
+
+### [Day 21](./Day021)
+- **Learning Objectives**: Class Inheritance, Superclasses, String slicing with increments
+- **Project**: Build a Snake Game in 7 Steps:
+
+
+- Finish the remaining steps from Day20
+- ~~Create a snake body~~
+- ~~Make the snake moving~~
+- ~~Control the snake~~
+- ~~Detect collision with food~~
+- ~~Create a scoreboard~~
+- ~~Detect collision with walls~~
+- ~~Detect collision with own body~~
