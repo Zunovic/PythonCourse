@@ -137,3 +137,6 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - ~~Create a scoreboard~~
 - ~~Detect collision with walls~~
 - ~~Detect collision with own body~~
+
+### [Day 22](./Day022)
+- **Project**: Recreating the arcade game "Pong" with OOP
