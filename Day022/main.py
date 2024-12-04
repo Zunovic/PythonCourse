@@ -8,6 +8,7 @@ screen.setup(width=800, height=600)
 screen.title("Pong recreation by Zunovic")
 screen.tracer(0)
 
+
 right_paddle = Paddle()
 right_paddle.set_cords(1)
 left_paddle = Paddle()
