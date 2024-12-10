@@ -139,4 +139,11 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - ~~Detect collision with own body~~
 
 ### [Day 22](./Day022)
-- **Project**: Recreating the arcade game "Pong" with OOP
+- **Project**: Recreating the arcade game "Pong" using OOP
+
+
+### [Day 23](./Day023)
+- **Learning Objectives**: Why it's important to make your software modular
+- **Project**: Recreating the arcade game "Frogger" using OOP
+
+### [Day 24](./Day024)
