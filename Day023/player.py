@@ -16,5 +16,5 @@ class Player(Turtle):
 
 
     def move_fd(self):
-        new_y = self.ycor() + 20
+        new_y = self.ycor() + 30
         self.goto(self.xcor(), new_y)
