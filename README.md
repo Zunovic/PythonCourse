@@ -147,6 +147,8 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - **Project**: Recreating the arcade game "Frogger" using OOP
 
 ### [Day 24](./Day024)
-- **Learning Objectives**: Working with Local Files and Directories <br><br>
+- **Learning Objectives**: Working with Local Files and Directories
+- Understanding relative and absolute paths,  <br><br>
 
 - Started to work on saving the highest score in previous snake game.
+- - The game now saves your highes score to a .txt file in the same folder where "main.py" is
