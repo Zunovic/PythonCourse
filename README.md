@@ -148,7 +148,11 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 
 ### [Day 24](./Day024)
 - **Learning Objectives**: Working with Local Files and Directories
-- Understanding relative and absolute paths,  <br><br>
+- Understanding relative and absolute paths, using a txt file to generate letters for a birthday invitation. <br><br>
 
 - Started to work on saving the highest score in previous snake game.
 - - The game now saves your highes score to a .txt file in the same folder where "main.py" is
+
+### [Day 25](./Day025)
+- **Learning Objectives**: Working with the csv library and reading data from a ".csv" file
+- Getting into the Pandas library
