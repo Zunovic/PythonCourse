@@ -154,5 +154,9 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - - The game now saves your highes score to a .txt file in the same folder where "main.py" is
 
 ### [Day 25](./Day025)
-- **Learning Objectives**: Working with the csv library and reading data from a ".csv" file
+- **Learning Objectives**: Working with the Pandas library and reading data from a ".csv" file
 - Getting into the Pandas library
+- Learned to extract data from big .csv files
+<br><br>
+
+- **Project**:
