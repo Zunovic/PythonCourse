@@ -159,4 +159,4 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - Learned to extract data from big .csv files
 <br><br>
 
-- **Project**:
+- **Project**: Build a US States quiz using Turtle and Pandas. It's not final yet but it's playable.
