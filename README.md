@@ -160,3 +160,9 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 <br><br>
 
 - **Project**: Build a US States quiz using Turtle and Pandas. It's not final yet but it's playable.
+
+### [Day 26](./Day026)
+- **Learning Objectives**: Understanding "List Comprehension"
+- Understanding "Dictionary Comprehension"<br><br>
+- **Project**: Changing the code of the US-State-Quiz and use list comprehension instead of a regular for loop.
+- Create a NATO Alphabet-Script wich can help you by giving you the words to say by your input
