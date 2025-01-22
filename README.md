@@ -169,5 +169,6 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 
 ### [Day 27](./Day027)
 - **Learning Objectives**: Understanding how Tkinter works
+- Functions with unlimited input arguments
 
-- **Project**: Building my first UI App.
+- **Project**: Building my first UI App with Tkinter
