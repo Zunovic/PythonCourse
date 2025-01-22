@@ -10,10 +10,15 @@ df = pd.DataFrame(alphabet)
 alphabet_dict = {row.letter:row.code for (index, row) in df.iterrows()}
 print(alphabet_dict)
 
-# TODO 2. Create a list of the phonetic code words from a word that the user inputs.
-
 active = 1
 while active:
-    user_input = input("Was möchtest du ins NATO-Alphabet übersetzen?:")
-    # translation =  [user_input for word in alphabet_dict.values()]
-    print(translation)
+    user_input = input("Was möchtest du ins NATO-Alphabet übersetzen?:").upper()
+    if user_input == "EXIT":
+        active = 0
+    else:
+        # Der Input wird Buchstabe für Buchstabe in eine Liste gepackt.
+        to_translate = [n for n in user_input]
+        # Im alphabet_dict wird nach dem Buchstaben geguckt und die Value aus dem Dict wird in einer Liste gespeichert.
+        translation = [alphabet_dict[n] for n in user_input]
+        print(translation)
+        print('\n Um aufzuhören tippe "exit"\n ')
