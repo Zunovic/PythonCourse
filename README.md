@@ -166,3 +166,8 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - Understanding "Dictionary Comprehension"<br><br>
 - **Project**: Changing the code of the US-State-Quiz and use list comprehension instead of a regular for loop.
 - Create a NATO Alphabet-Script wich can help you by giving you the words to say by your input
+
+### [Day 27](./Day027)
+- **Learning Objectives**: Understanding how Tkinter works
+
+- **Project**: Building my first UI App.
