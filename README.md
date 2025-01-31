@@ -172,3 +172,8 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - Functions with unlimited input arguments
 
 - **Project**: Building my first UI App with Tkinter (Kilometer to Miles converter)
+
+### [Day 28](./Day028)
+- **Learning Objectives**: 
+
+- **Project**: Create a Pomodoro-Timer App with Tkinter with 4 learning phases.
