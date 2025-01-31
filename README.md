@@ -171,4 +171,4 @@ This repository documents my progress throughout the 100 Days of Code Udemy cour
 - **Learning Objectives**: Understanding how Tkinter works
 - Functions with unlimited input arguments
 
-- **Project**: Building my first UI App with Tkinter
+- **Project**: Building my first UI App with Tkinter (Kilometer to Miles converter)

@@ -1,25 +1,40 @@
 import tkinter as tk
 
 
-def button_clicked():
-    print("Button clicked")
-    new_label = my_input.get()
-    label_1.config(text=new_label)
+def calc_miles():
+    # Kilometer werden ausgelesen, in Meilen umgewandelt und auf 2 Stellen nach dem Komma gerundet
+    calc_result = float(km_input.get()) * 0.6214
+    rounded_result = round(calc_result, 2)
+    # Wichtig: Bei Veränderungen nur Methoden benutzen, da wir keinen scope haben (.config())
+    calc_equals.config(text=rounded_result)
+
 
 window = tk.Tk()
-window.title("First GUI")
-window.minsize(400, 300)
+window.title("Kilometer zu Meilen-Rechner")
+window.minsize(330,150)
+window.config(padx=115, pady=30)
 
-# Label
-label_1 = tk.Label(text="Type something", font=("Arial", 24))
-label_1.pack()
+# Alle Widgets in Grid-Reihenfolge
+empty_label1 = tk.Label()
+empty_label1.grid(column=0, row=0)
+empty_label1.config(padx=20)
 
-# Button
-button = tk.Button(text="Click", command=button_clicked)
-button.pack()
+km_input = tk.Entry(width=10)
+km_input.grid(column=1, row=0)
 
-# Inputs
-my_input = tk.Entry()
-my_input.pack()
+kilometer = tk.Label(text="Km")
+kilometer.grid(column=2, row=0)
+
+equal_to = tk.Label(text="sind ≈")
+equal_to.grid(column=0, row=1)
+
+calc_equals = tk.Label(text="")
+calc_equals.grid(column=1, row=1)
+
+miles = tk.Label(text="Meilen")
+miles.grid(column=2, row=1)
+
+calc_button = tk.Button(text="Berechnen", command=calc_miles)
+calc_button.grid(column=1, row=2)
 
 window.mainloop()
